@@ -1,7 +1,7 @@
 # fresh-md
 
 ```
-sudo apt install curl
+sudo apt install curl vim
 ```
 
 ```
